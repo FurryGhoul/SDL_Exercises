@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ivan\desktop\sdl_ex\project6\source.cpp(14): warning C4101: 'bmask': unreferenced local variable
+c:\users\ivan\desktop\sdl_ex\project6\source.cpp(14): warning C4101: 'gmask': unreferenced local variable
+c:\users\ivan\desktop\sdl_ex\project6\source.cpp(14): warning C4101: 'amask': unreferenced local variable
+c:\users\ivan\desktop\sdl_ex\project6\source.cpp(14): warning C4101: 'rmask': unreferenced local variable
+c:\users\ivan\desktop\sdl_ex\project6\source.cpp(19): error C4700: uninitialized local variable 'renderer' used
